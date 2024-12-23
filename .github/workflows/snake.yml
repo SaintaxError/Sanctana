@@ -1,20 +1,28 @@
-name: Snake Animation
+name: Generate Snake SVG
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: '0 0 * * *'  # Automatically runs once a day at midnight
-  workflow_dispatch:  # Allows manual trigger via the GitHub UI
+    - cron: '0 0 * * *'  # Runs once per day at midnight
 
 jobs:
   build:
-    runs-on: ubuntu-latest
-
+    runs-on: ubuntu-22.04  # Specify Ubuntu version if needed
+    
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-    - name: Generate Snake SVG
-      uses: Platane/snk@master
-      with:
-        github_user: 'Sanctana'  # Your GitHub username
-        svg_out_path: '.github/snake/github-snake-dark.svg'  # Path where the SVG will be saved
+      - name: Generate Snake SVG
+        uses: Platane/snk@v2
+        with:
+          github_user_name: Sanctana  # Updated to match the correct input
+          svg_out_path: .github/snake/github-snake.svg  # Path for the SVG output
+
+      - name: Upload Snake SVG
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-svg
+          path: .github/snake/github-snake.svg  # Upload the generated SVG as an artifact
