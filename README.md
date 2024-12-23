@@ -1,6 +1,9 @@
-# About Me
+# ✨ About Me
 
-I write code because the computer asks me to :p
+I just **code** because the computer asks me to do so...  
+But I'm **curious** to see where this path leads,  
+**figuring things out** along the way. 🌱
+
 <!--
 **Sanctana/Sanctana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
