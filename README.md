@@ -6,9 +6,11 @@
 </p>
 
 # :seedling: About Me
-- I just **code** because the computer asks me to do so.. but I'm **curious** to see where this path leads, **figuring things out** along the way. :cloud:⋆⭒˚｡⋆
+- I just **code** because the computer asks me to do so.. but I'm **curious** to see where
+  <br>this path leads, **figuring things out** along the way. :cloud:⋆⭒˚｡⋆ <img src="https://github.com/Sanctana/Web-Exploration/raw/main/download.gif" alt="My GIF" align="right" width="390">
 - I don’t have all the answers, but I’m here to learn. ✍🏻
-
+- Life feels better with a daisy in hand and green all around. 🌼
+  
 ### 📝 Currently Up To:
 Diving into the world of programming and building web projects from scratch.
 
