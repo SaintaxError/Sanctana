@@ -13,7 +13,7 @@
   
 ### 📝 Currently Up To:
 Diving into the world of programming and building web projects from scratch.
-
+<br>
 ### 📗 What I'm Working On:
 - Currently learning **C programming**, because who doesn’t love an endless loop of frustration? ><
 - Exploring **HTML**, **CSS**, **JavaScript**, and **p5.js**, with an interest in designing and developing web experiences.
