@@ -31,3 +31,29 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanctana&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
 </p>
 
+<h2 align="center">✨🌿✧⋆｡ Socials & Counts ｡⋆˚🌿✨</h2>
+<p align="center">
+  <a href="https://www.instagram.com/saincerity" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/itrxna" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://discord.com/users/743987271908327485" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://twitter.com/saintipathy" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sanctana?tab=stars&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Sanctana"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Sanctana&color=0E9C47&style=for-the-badge">
+  <a href="https://github.com/Sanctana?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Sanctana?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+  </a>
+</p>
+
