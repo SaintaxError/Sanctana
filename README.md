@@ -6,7 +6,7 @@
 </p>
 
 # :seedling: About Me
-  I just **code** because the computer asks me to do so.. but I'm **curious** to see where this path leads,**figuring things out** along the way. :cloud:⋆⭒˚｡⋆
+  I just **code** because the computer asks me to do so.. but I'm **curious** to see where this path leads, **figuring things out** along the way. :cloud:⋆⭒˚｡⋆
 
 ### 📗 Improving On:
 - Currently learning **C programming**, because who doesn’t love an endless loop of frustration? ><
