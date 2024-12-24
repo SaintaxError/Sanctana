@@ -8,8 +8,8 @@
 # :seedling: Hi, I'm Saint一切顺利!
 ### 🌿 About Me:
 - I just **code** because the computer asks me to do so.. but I'm **curious**
-  <br>to see where see where this path leads, **figuring things out** along <img src="https://github.com/Sanctana/Sanctana/raw/main/𝓪𝓷𝓲𝓶𝓮.gif" alt="My GIF" align="right" width="380">
-  <br>the way. :cloud:⋆⭒˚｡⋆ 
+  <br>to see where see where this path leads, **figuring things out** along 
+  <br>the way. :cloud:⋆⭒˚｡⋆ <img src="https://github.com/Sanctana/Sanctana/raw/main/𝓪𝓷𝓲𝓶𝓮.gif" alt="My GIF" align="right" width="380">
 - I don’t have all the answers, but I’m here to learn. ✍🏻 
 - Life feels better with a daisy in hand and green all around. 🌼
   
