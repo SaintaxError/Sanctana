@@ -8,12 +8,13 @@
 # :seedling: About Me
 - I just **code** because the computer asks me to do so.. but I'm **curious**
   <br>to see where see where this path leads, **figuring things out** along
-  <br> the way. :cloud:⋆⭒˚｡⋆ <img src="https://github.com/Sanctana/Web-Exploration/raw/main/download.gif" alt="My GIF" align="right" width="350">
+  <br>the way. :cloud:⋆⭒˚｡⋆ <img src="https://github.com/Sanctana/Web-Exploration/raw/main/download.gif" alt="My GIF" align="right" width="390">
 - I don’t have all the answers, but I’m here to learn. ✍🏻 
 - Life feels better with a daisy in hand and green all around. 🌼
   
 ### 📝 Currently Up To:
-Diving into the world of programming and building web projects from scratch.
+- Diving into the world of programming and building web projects
+  <br>from scratch.
 <br>
 ### 📗 What I'm Working On:
 - Currently learning **C programming**, because who doesn’t love an endless loop of frustration? ><
