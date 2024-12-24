@@ -6,13 +6,17 @@
 </p>
 
 # :seedling: About Me
-  I just **code** because the computer asks me to do so.. but I'm **curious** to see where this path leads, **figuring things out** along the way. :cloud:⋆⭒˚｡⋆
+- I just **code** because the computer asks me to do so.. but I'm **curious** to see where this path leads, **figuring things out** along the way. :cloud:⋆⭒˚｡⋆
+- I don’t have all the answers, but I’m here to learn. ✍🏻
 
-### 📗 Improving On:
+### 📝 Currently Up To:
+Diving into the world of programming and building web projects from scratch.
+
+### 📗 What I'm Working On:
 - Currently learning **C programming**, because who doesn’t love an endless loop of frustration? ><
 - Exploring **HTML**, **CSS**, **JavaScript**, and **p5.js**, with an interest in designing and developing web experiences.
 
-## 🐍 Contribution Snake
+## 🐍 Commit Pathway
 ![Snake Dark Mode](https://raw.githubusercontent.com/Sanctana/Sanctana/snake/github-snake-dark.svg)
 
 <p align="center">
