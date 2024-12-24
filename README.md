@@ -12,5 +12,13 @@
 - Currently learning **C programming**, because who doesn’t love an endless loop of frustration? ><
 - Exploring **HTML**, **CSS**, **JavaScript**, and **p5.js**, with an interest in designing and developing web experiences.
 
-## 🐍 Contribution Snake<br>
-  ![Snake Dark Mode](https://raw.githubusercontent.com/Sanctana/Sanctana/snake/github-snake-dark.svg)
+## 🐍 Contribution Snake
+![Snake Dark Mode](https://raw.githubusercontent.com/Sanctana/Sanctana/snake/github-snake-dark.svg)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sanctana&theme=matrix&no-bg=true&no-frame=true&row=1&column=8" width="100%">
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanctana&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+</p>
+
