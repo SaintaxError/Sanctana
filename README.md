@@ -8,9 +8,9 @@
 # :seedling: About Me
   I just **code** because the computer asks me to do so... but I'm **curious** to see where this path leads, **figuring things out** along the way. :cloud:⋆⭒˚｡⋆
 
-### 📗 Currently Learning:
-- Currently learning **C programming** and diving into **web development**.  
-- Exploring **HTML**, **CSS**, **JavaScript**, and **p5.js**.    
+### 📗 Improving On:
+- Currently learning **C programming**, because who doesn’t love an endless loop of frustration? ><
+- Exploring **HTML**, **CSS**, **JavaScript**, and **p5.js**, with an interest in designing and developing web experiences.
 
 ## 🐍 Contribution Snake<br>
   ![Snake Dark Mode](https://raw.githubusercontent.com/Sanctana/Sanctana/snake/github-snake-dark.svg)
