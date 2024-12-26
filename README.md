@@ -13,6 +13,8 @@
 - I don’t have all the answers, but I’m here to learn. ✍🏻 
 - Life feels better with a daisy in hand and green all around. 🌼
   
+  > "You can’t rush creativity… or code."
+  
 ### 📝 Currently Up To:
 - Diving into the world of programming and building web projects
   <br>from scratch.
@@ -20,6 +22,13 @@
 ### 📗 What I'm Working On:
 - Currently learning **C programming**, because who doesn’t love an endless loop of frustration? ><
 - Exploring **HTML**, **CSS**, **JavaScript**, and **p5.js**, with an interest in designing and developing web experiences.
+
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Sleep-Never%20Enough-darkgreen" alt="Sleep" />
+  <img src="https://img.shields.io/badge/Hours%20Coding-I%20opened%20VS%20Code%20but%20stared%20at%20it%20for%201%20hour-palegreen" alt="Hours Coding" />
+  <img src="https://img.shields.io/badge/Fun%20Fact-I%20have%2010%2B%20cats!-darkgreen">
+</p>
 
 ## 🐍 Commit Pathway
 ![Snake Dark Mode](https://raw.githubusercontent.com/Sanctana/Sanctana/snake/github-snake-dark.svg)
@@ -56,4 +65,5 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Sanctana?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
   </a>
 </p>
+  
 
