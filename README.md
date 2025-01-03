@@ -7,18 +7,20 @@
 </p>
 
 # :seedling: Hi, I'm Saint一切顺利! 
-<img src="https://github.com/Sanctana/Sanctana/raw/main/The wind rises - Studio Ghibli.gif" alt="My GIF" align="left" width="380"> ### 🌿 About Me: 
-- I just **code** because the computer asks me to do so.. but I'm **curious**
-  <br>to see where this path leads, **figuring things out** along 
-  <br>the way. 🍥⋆⭒˚｡⋆  
-- INTJ-A, Intrapersonal (1st), & Visual (2nd) 🔖 
-- Once upon a time, I drafted buildings; now I build with logic and loops. ✍🏻 
-- Life feels better with a daisy in hand and green all around. 🌼
-- **Me to coding**: <em>I spent all those years thinking we were nothing, and now, you’re in my life for good. Looks like this is the universe's way of saying, **'I told you so.'**</em> <img src="https://github.com/Sanctana/Sanctana/raw/main/The wind rises.gif" alt="My GIF" align="right" width="380"> 
+<img src="https://github.com/Sanctana/Sanctana/raw/main/The wind rises - Studio Ghibli.gif" alt="My GIF" align="left" width="380"> <p align="middle"> **🌿 About Me:** </p> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**—** I just **code** because the computer asks me to do so.. but I'm **curious**
+to see where &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this path leads, **figuring things out** along the way. 🍥⋆⭒˚｡⋆
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**—**  INTJ-A, Intrapersonal (1st), & Visual (2nd) 🔖 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**—**  Once upon a time, I drafted buildings; now I build with logic and loops. ✍🏻 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**—**  Life feels better with a daisy in hand and green all around. 🌼
+- **Me to coding**: <em>I spent all those years thinking we were nothing, and now, you’re in my life for good. Looks like this is the universe's way of saying, **'I told you so.'**</em> 
   
   > "Improvement begins with self-awareness—you must first understand where you need to improve and then dedicate<br>yourself to progress." 
-### <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Currently Up To:
-- Diving into the world of programming and building web projects
+### <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Currently Up To: 
+- Diving into the world of programming and building web projects <img src="https://github.com/Sanctana/Sanctana/raw/main/The wind rises.gif" alt="My GIF" align="right" width="380"> 
   <br>from scratch.
   
   > "You can’t rush creativity… or code."
