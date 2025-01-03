@@ -7,14 +7,14 @@
 </p>
 
 # :seedling: Hi, I'm Saint一切顺利! 
-### 🌿 About Me: <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+### 🌿 About Me: 
 
 - I just **code** because the computer asks me to do so.. but I'm **curious**
   <br>to see where this path leads, **figuring things out** along 
   <br>the way. 🍥⋆⭒˚｡⋆
-- INTJ-A & Intrapersonal 🔖
+- INTJ-A & Intrapersonal 🔖 <img src="https://github.com/Sanctana/Sanctana/raw/main/𝓪𝓷𝓲𝓶𝓮.gif" alt="My GIF" align="right" width="380">
 - I don’t have all the answers, but I’m here to learn. ✍🏻 
-- Life feels better with a daisy in hand and green all around. 🌼 <img src="https://github.com/Sanctana/Sanctana/raw/main/𝓪𝓷𝓲𝓶𝓮.gif" alt="My GIF" align="right" width="380">
+- Life feels better with a daisy in hand and green all around. 🌼
   
   > "Improvement begins with self-awareness—you must first understand where you need to improve and then dedicate<br>yourself to progress."
   
@@ -42,12 +42,12 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sanctana&theme=matrix&no-bg=true&no-frame=true&row=1&column=8" width="100%">
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanctana&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
-</p>
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanctana&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%"> <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+</p> 
 
-<h2 align="center">✨🌿✧⋆｡ Socials & Counts ｡⋆˚🌿✨</h2>
-<p align="center">
+<h2 align="center">✨🌿✧⋆｡ Socials & Counts ｡⋆˚🌿✨</h2>  
+<p align="center"> 
   <a href="https://www.instagram.com/saincerity" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -62,8 +62,8 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Sanctana?tab=stars&sort=stargazers">
+<p align="center"> 
+  <a href="https://github.com/Sanctana?tab=stars&sort=stargazers"> 
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Sanctana"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Sanctana&color=0E9C47&style=for-the-badge">
