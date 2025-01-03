@@ -15,8 +15,7 @@
 - I don’t have all the answers, but I’m here to learn. ✍🏻 <img src="https://github.com/Sanctana/Sanctana/raw/main/𝓪𝓷𝓲𝓶𝓮.gif" alt="My GIF" align="right" width="380">
 - Life feels better with a daisy in hand and green all around. 🌼
   
-  > "Improvement begins with self-awareness—you must first understand
- <br>where you need to improve and then dedicate yourself to progress."
+  > "Improvement begins with self-awareness—you must first understand where you need to improve and then dedicate yourself to progress."
   
 ### 📝 Currently Up To:
 - Diving into the world of programming and building web projects
