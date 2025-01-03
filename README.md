@@ -18,7 +18,7 @@
   
   > "Improvement begins with self-awareness—you must first understand where you need to improve and then dedicate<br>yourself to progress."
   
-### 📝 Currently Up To:
+### <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Currently Up To:
 - Diving into the world of programming and building web projects
   <br>from scratch.
   
