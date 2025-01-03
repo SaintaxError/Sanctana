@@ -6,14 +6,15 @@
 
 </p>
 
-# :seedling: Hi, I'm Saint一切顺利!
-### 🌿 About Me:
+# :seedling: Hi, I'm Saint一切顺利! 
+### 🌿 About Me: <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 - I just **code** because the computer asks me to do so.. but I'm **curious**
   <br>to see where this path leads, **figuring things out** along 
   <br>the way. 🍥⋆⭒˚｡⋆
 - INTJ-A & Intrapersonal 🔖
-- I don’t have all the answers, but I’m here to learn. ✍🏻 <img src="https://github.com/Sanctana/Sanctana/raw/main/𝓪𝓷𝓲𝓶𝓮.gif" alt="My GIF" align="right" width="380">
-- Life feels better with a daisy in hand and green all around. 🌼
+- I don’t have all the answers, but I’m here to learn. ✍🏻 
+- Life feels better with a daisy in hand and green all around. 🌼 <img src="https://github.com/Sanctana/Sanctana/raw/main/𝓪𝓷𝓲𝓶𝓮.gif" alt="My GIF" align="right" width="380">
   
   > "Improvement begins with self-awareness—you must first understand where you need to improve and then dedicate<br>yourself to progress."
   
@@ -71,4 +72,3 @@
   </a>
 </p>
   
-
