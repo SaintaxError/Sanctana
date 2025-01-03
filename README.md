@@ -9,11 +9,11 @@
 # :seedling: Hi, I'm Saint一切顺利! 
 <img src="https://github.com/Sanctana/Sanctana/raw/main/The wind rises - Studio Ghibli.gif" alt="My GIF" align="left" width="380"> <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2&pause=2&color=00E92C&repeat=false&width=435&lines=%F0%9F%8C%BF+About+Me%3A" alt="Typing SVG" alt="Typing SVG" align="middle" /></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**—** I just **code** because the computer asks me to do so.. but I'm **curious**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to see where this path leads, **figuring things out** along the way. 🍥⋆⭒˚｡⋆
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to see where this path leads, **figuring things out** along the way. 🍥&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⋆⭒˚｡⋆
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**—**  INTJ-A, Intrapersonal (1st), & Visual (2nd) 🔖 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**—**  Once upon a time, I drafted buildings; now I build with logic and&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;loops. ✍🏻 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**—**  Once upon a time, I drafted buildings; now I build with logic &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and loops. ✍🏻 
 
 - Life feels better with a daisy in hand and green all around. 🌼
 - **Me to coding**: <em>I spent all those years thinking we were nothing, and now, you’re in my life for good. Looks like this is the universe's way of saying, **'I told you so.'**</em> 
