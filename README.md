@@ -7,10 +7,10 @@
 </p>
 
 # :seedling: Hi, I'm Saint一切顺利! 
-### 🌿 About Me: 
+<img src="https://github.com/Sanctana/Sanctana/raw/main/The wind rises - Studio Ghibli.gif" alt="My GIF" align="left" width="380"> ### 🌿 About Me: 
 - I just **code** because the computer asks me to do so.. but I'm **curious**
   <br>to see where this path leads, **figuring things out** along 
-  <br>the way. 🍥⋆⭒˚｡⋆  <img src="https://github.com/Sanctana/Sanctana/raw/main/The wind rises - Studio Ghibli.gif" alt="My GIF" align="right" width="380">
+  <br>the way. 🍥⋆⭒˚｡⋆  
 - INTJ-A, Intrapersonal (1st), & Visual (2nd) 🔖 
 - Once upon a time, I drafted buildings; now I build with logic and loops. ✍🏻 
 - Life feels better with a daisy in hand and green all around. 🌼
