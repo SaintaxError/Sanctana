@@ -14,8 +14,8 @@
 - I don’t have all the answers, but I’m here to learn. ✍🏻 
 - Life feels better with a daisy in hand and green all around. 🌼
   
-  > "You can’t rush creativity… or code."
-  
+  > "You can’t rush creativity… or code."<br>
+  > "I'm not working on code一I'm working on getting a golden retriever."
 ### 📝 Currently Up To:
 - Diving into the world of programming and building web projects
   <br>from scratch.
