@@ -10,20 +10,25 @@
 ### 🌿 About Me:
 - I just **code** because the computer asks me to do so.. but I'm **curious**
   <br>to see where this path leads, **figuring things out** along 
-  <br>the way. :cloud:⋆⭒˚｡⋆ <img src="https://github.com/Sanctana/Sanctana/raw/main/𝓪𝓷𝓲𝓶𝓮.gif" alt="My GIF" align="right" width="380">
-- I don’t have all the answers, but I’m here to learn. ✍🏻 
+  <br>the way. 🍥⋆⭒˚｡⋆
+- INTJ-A & Intrapersonal 🔖
+- I don’t have all the answers, but I’m here to learn. ✍🏻 <img src="https://github.com/Sanctana/Sanctana/raw/main/𝓪𝓷𝓲𝓶𝓮.gif" alt="My GIF" align="right" width="380">
 - Life feels better with a daisy in hand and green all around. 🌼
   
-  > "You can’t rush creativity… or code."<br>
-  > "I'm not working on code一I'm working on getting a golden retriever."
+  > "Improvement begins with self-awareness—you must first understand
+ <br>where you need to improve and then dedicate yourself to progress."
+  
 ### 📝 Currently Up To:
 - Diving into the world of programming and building web projects
   <br>from scratch.
-
+  
+  > "You can’t rush creativity… or code."
+  
 ### 📗 What I'm Working On:
 - Currently learning **C programming**, because who doesn’t love an endless loop of frustration? ><
 - Exploring **HTML**, **CSS**, **JavaScript**, and **p5.js**, with an interest in designing and developing web experiences.
-
+  
+  > "I'm not working on code一I'm working on getting a golden retriever."
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Sleep-Never%20Enough-darkgreen" alt="Sleep" />
