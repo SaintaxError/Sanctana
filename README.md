@@ -18,7 +18,8 @@
 - Life feels better with a daisy in hand and green all around. 🌼
 - **Me to coding**: <em>I spent all those years thinking we were nothing, and now, you’re in my life for good. Looks like this is the universe's way of saying, **'I told you so.'**</em> 
   
-  > "Improvement begins with self-awareness—you must first understand where you need to improve and then dedicate<br>yourself to progress." <img src="https://github.com/Sanctana/Sanctana/raw/main/The wind rises.gif" alt="My GIF" align="right" width="380"> 
+  > "Improvement begins with self-awareness—you must first understand where you need to improve and then dedicate<br>yourself to progress."
+  <img src="https://github.com/Sanctana/Sanctana/raw/main/The wind rises.gif" alt="My GIF" align="right" width="380"> 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Currently Up To: 
 - Diving into the world of programming and building web projects 
   <br>from scratch.
