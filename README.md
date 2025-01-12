@@ -30,7 +30,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>&mdash;</strong> INTJ-A, Intrapersonal (1st), & Visual (2nd) 🔖 
   <br><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>&mdash;</strong> Once upon a time, I drafted buildings; now I build with logic. ✍🏻
-</p>
+</p><br>
 
 - Life feels better with a daisy in hand and green all around. 🌼
 - **Me to coding**: <em>I spent all those years thinking we were nothing, and now, you’re in my life for good. Looks like this is the universe's way of saying, **'I told you so.'**</em> 
