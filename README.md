@@ -6,7 +6,7 @@
 
 </p>
 
-# :seedling: Hi, I'm Saint一切顺利! 
+# :seedling: Hi, I'm Saint!
 <p>
   <img 
     src="https://github.com/Sanctana/Sanctana/raw/main/The wind rises - Studio Ghibli.gif" 
@@ -33,23 +33,17 @@
 </p><br>
 
 - Life feels better with a daisy in hand and green all around. 🌼
-- **Me to coding**: <em>I spent all those years thinking we were nothing, and now, you’re in my life for good. Looks like this is the universe's way of saying, **'I told you so.'**</em> 
+- <em>I spent all those years thinking we were nothing, and now, you’re in my life for good. Looks like this is the universe's way of saying, **'I told you so.'**</em> 
   
   > "Improvement begins with self-awareness—you must first understand where you need to improve and then dedicate<br>yourself to progress."<br><br>
   > Just give me time to learn, and I'll become one of the best you'll ever know.
   <img src="https://github.com/Sanctana/Sanctana/raw/main/The wind rises.gif" alt="My GIF" align="right" width="380"> 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Currently Up To: 
-- Diving into the world of programming and building web projects 
-  <br>from scratch.
-  
+- Multitasking: Gaining skills inside and outside school while my sleep schedule becomes a myth.
   > "You can’t rush creativity… or code."
   
 ### 📗 What I'm Working On:
 - Currently learning **C programming**, because who doesn’t love an endless loop of frustration? ><  
-- Exploring **HTML**, **CSS**, **JavaScript**, and **p5.js**, with an interest in designing and developing web experiences.  
-- Practicing **design skills** in my Design Lab repository, focusing on foundational concepts, while also exploring advanced areas.
-
-  
   > "I'm not working on code一I'm working on getting a golden retriever."
 <br>
 <p align="center">
